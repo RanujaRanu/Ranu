@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RanujaRanu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/RanujaRanuja">
+  <a href="https://github.com/RanujaRanu">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:your.email@example.com">
@@ -127,11 +127,11 @@ const ranuja = {
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=RanujaRanu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanujaRanu&theme=radical&hide_border=true&background=0D1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=RanujaRanu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats"/></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanujaRanu&theme=radical&hide_border=true&background=0D1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanujaRanu&layout=compact&theme=radical&hide_border=true&title_color=ff6e96&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/></td>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanujaRanu&layout=compact&theme=radical&hide_border=true&title_color=ff6e96&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages"/></td>
 </tr>
 </table>
 
@@ -143,7 +143,7 @@ const ranuja = {
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanujaRanu&custom_title=Ranuja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff6e96&line=ff6e96&point=FFFFFF&title_color=ff6e96&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanujaRanu&custom_title=Ranuja's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff6e96&line=ff6e96&point=FFFFFF&title_color=ff6e96&area=true&hide_border=true&cache_seconds=1800)
 
 </div>
 
@@ -184,7 +184,7 @@ I use projects to strengthen my fundamentals and practical understanding:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/RanujaRanuja">
+  <a href="https://github.com/RanujaRanu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:your.email@example.com">
